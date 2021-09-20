@@ -1,0 +1,233 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background:url(../Images/Placesbackground.jpg) no-repeat;
+    background-size: cover;
+
+}
+
+
+#Dublin{
+    color: white;
+    font-size: 350%;
+    display: inherit;
+    margin: auto;
+}
+
+.topnav{
+    background-color:rgb(0, 102, 51, 0.9); 
+    display: flex;
+    /*justify-content: center;*/
+    padding: 3em;
+    border-style: solid white;
+   
+    
+
+}
+#navigation{
+    border: 3px solid white;
+    padding: 2em;
+    display: inherit;
+    width: 1000px;
+    margin-left:20vw;
+    border-radius: 15px;
+}
+
+nav a{
+    padding-right:2em;
+    margin: auto;
+    text-decoration:none;
+    border-right:1px solid wheat;
+    text-align: center;
+    border-style: solid white;
+    color:white;
+    float:right;
+}
+
+.topnav > img{
+    width: 8%;
+    height: auto;
+    margin: auto;
+
+}
+
+
+a:hover{
+    background-color: rgb(253, 174, 54);
+    border-radius: 5px;
+}
+
+#videocentral{
+    background-color: white;
+    display: flex;
+    height: 20em;
+    width: 100%;
+    justify-content: center;
+    margin: auto;
+    border: solid 2px rgb(5, 3, 3, 0.1);
+}
+
+#central div{
+    background-color:rgba(255, 255, 255, 0.9);
+    width:50%;
+    height:auto;
+    padding: 3em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5em auto auto auto;
+    border-radius: 15px;
+}
+.Intro h1, h3{
+    background-color: rgba(81, 189, 122, 0.99);
+   width: 10em;
+    color: white;
+    padding: 1em;
+    margin: -2em auto  auto;
+    text-align: center;
+    display: flex;
+    
+}
+ #logo{
+     width: 60%;
+     height: auto;
+     margin: auto;
+     padding-bottom: 2em;
+ }
+
+ #central2 div{
+    background-color:rgba(255, 255, 255, 0.9);
+    width:50%;
+    height:auto;
+    padding: 3em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5em auto auto auto;
+    border-radius: 15px;
+ }
+ #titelplaces{
+     background-color: rgb(0, 102, 51, 0.9);
+     padding: 1em;
+     color: white;
+     border-radius: 15px;
+
+ }
+ #grafton{
+     
+ }
+
+ #placesbody{
+    background:url(../Images/DublinHem2.jpg) no-repeat;
+    background-size: cover;
+
+ }
+ #street{
+     display: flex;
+     margin-right: auto;
+     padding-top: 5em;
+ }
+ #street2{
+    display: flex;
+    margin-right: auto;
+    padding-top: 5em;
+ }
+ #street3{
+    display: flex;
+    margin-right: auto;
+    padding-top: 5em;
+ }
+ #map{
+    display: flex;
+    padding-top: 5em;
+    width: 100%;
+    height: auto;
+    border-style: solid 10px rgb(0, 102, 51, 0.9);
+
+ }
+ #bookingsbody{
+     background:url(../Images/Dublinbookings.jpg) no-repeat;
+ background-size: cover;
+ }
+ 
+ #central3 {
+      background-color:rgba(255, 255, 255, 0.9);
+    width:50%;
+    height:auto;
+    padding: 1em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5em auto auto auto;
+    border-radius: 15px;
+ }
+
+ #outro{
+     background-color: rgb(0, 102, 51, 0.9);
+     color: white;
+     margin: 1em auto auto auto;
+     border-radius: 15px;
+
+ }
+   
+ #culturebody{
+    background:url(../Images/Culture.jpg) no-repeat;
+background-size: cover;
+}
+#central4 {
+    background-color:rgba(255, 255, 255, 0.9);
+  width:50%;
+  height:auto;
+  padding: 1em;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 5em auto auto auto;
+  border-radius: 15px;
+}
+#text3{
+    padding: 1em;
+    background-color:rgb(0, 102, 51, 0.9); 
+    color: white;
+    border-radius: 15px;
+    
+}
+}
+#folklore{
+    display: flex;
+    margin-right: auto;
+    padding-top: 5em;
+
+}
+#farm{
+    width: 80%;
+    height: auto;
+    padding: 1em;
+}
+#farming{
+    
+    padding: 2em;
+}
+#folkloretext{
+    padding: 2em;
+    overflow: scroll;
+    height: 6em;
+}
+#Folklore{
+    padding: 1em;
+    background-color:rgb(0, 102, 51, 0.9); 
+    color: white;
+    border-radius: 15px;
+}
+
+#lepra{
+    padding: 1em;
+    width: 60%;
+}
